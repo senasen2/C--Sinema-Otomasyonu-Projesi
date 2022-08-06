@@ -1,0 +1,70 @@
+C:\Users\senas\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\senas\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\senas\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmYöneticiGirişi.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmYönetici.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Film_Ekle.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmSalonEkleme.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Seans_Ekle.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmBiletSatışı.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmSeansListeleme.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.frmSatislisteleme.resources
+C:\Users\senas\source\repos\Proje\Proje\bin\Debug\en-US\Proje.resources.dll
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\en-US\Proje.resources.dll
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization1.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization1.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization2.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization2.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization3.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization3.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization4.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization4.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization5.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization5.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization6.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.Localization6.en-US.resources
+C:\Users\senas\source\repos\Proje\Proje\obj\Debug\Proje.YoneticiEkleme.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\bin\Debug\en-US\Proje.resources.dll
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Film_Ekle.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmBiletSatışı.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmSatislisteleme.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmSeansListeleme.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization1.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization2.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization3.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization4.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization5.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization6.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmSalonEkleme.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmYönetici.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.frmYöneticiGirişi.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Seans_Ekle.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.YoneticiEkleme.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization1.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization2.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization3.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization4.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization5.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.Localization6.en-US.resources
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\en-US\Proje.resources.dll
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\senas\OneDrive\Masaüstü\Sinema Otomasyonu\Proje\Proje\obj\Debug\Proje.pdb

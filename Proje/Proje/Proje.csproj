@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{390F7CCC-9167-415E-ACCF-A51150B48BE7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proje</RootNamespace>
+    <AssemblyName>Proje</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Film Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film Ekle.Designer.cs">
+      <DependentUpon>Film Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSatislisteleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSatislisteleme.Designer.cs">
+      <DependentUpon>frmSatislisteleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeansListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeansListeleme.Designer.cs">
+      <DependentUpon>frmSeansListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Localization.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization1.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization1.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization2.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization2.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization2.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization3.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization3.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization3.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization4.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization4.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization4.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization5.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization5.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization5.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization6.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Localization6.en-US.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization6.en-US.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Salon Ekleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon Ekleme.Designer.cs">
+      <DependentUpon>Salon Ekleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBiletSatışı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBiletSatışı.Designer.cs">
+      <DependentUpon>frmBiletSatışı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYönetici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYönetici.Designer.cs">
+      <DependentUpon>frmYönetici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYöneticiGirişi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYöneticiGirişi.Designer.cs">
+      <DependentUpon>frmYöneticiGirişi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seans Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seans Ekle.Designer.cs">
+      <DependentUpon>Seans Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sinema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sinema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiEkleme.Designer.cs">
+      <DependentUpon>YoneticiEkleme.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Film Ekle.resx">
+      <DependentUpon>Film Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBiletSatışı.resx">
+      <DependentUpon>frmBiletSatışı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSatislisteleme.resx">
+      <DependentUpon>frmSatislisteleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeansListeleme.resx">
+      <DependentUpon>frmSeansListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization1.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization1.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization2.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization2.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization3.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization3.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization3.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization3.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization4.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization4.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization4.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization4.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization5.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization5.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization5.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization5.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization6.en-US.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization6.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization6.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization6.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon Ekleme.resx">
+      <DependentUpon>Salon Ekleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYönetici.resx">
+      <DependentUpon>frmYönetici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYöneticiGirişi.resx">
+      <DependentUpon>frmYöneticiGirişi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Seans Ekle.resx">
+      <DependentUpon>Seans Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiEkleme.resx">
+      <DependentUpon>YoneticiEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sinema.xsc">
+      <DependentUpon>sinema.xsd</DependentUpon>
+    </None>
+    <None Include="sinema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sinema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="sinema.xss">
+      <DependentUpon>sinema.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charlie-chaplin-3283421_640.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
